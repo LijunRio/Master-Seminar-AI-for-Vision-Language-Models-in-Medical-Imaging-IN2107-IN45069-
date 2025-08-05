@@ -33,7 +33,7 @@ All lecture PDFs are available in TUM Moodle .
 | **Week** | **Topic**                           | **Slides**                                                                                         | **Recording**                                         |
 |----------|-------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | Week 1   | Welcome and Introduction to VLMs-L1 | 📄 [Course Requirements](./Materials/L1_25_VLM_Intro_30_04.pdf) <br> 📄 [Introduction to VLMs](./Materials/VLM-L1.pdf) | ▶️ [YouTube](https://www.youtube.com/watch?v=WDvDeD7nnP8) |
-| Week 2   | How to Read Papers and Make Posters | 📄 [Lecture-2](./Materials/07_05_2025_VLM_HowTo.pdf) <br>                                                                                    | *To be updated*                                       |\
+| Week 2   | How to Read Papers and Make Posters | 📄 [Lecture-2](./Materials/07_05_2025_VLM_HowTo.pdf) <br>                                                                                    | ▶️ [YouTube](https://www.youtube.com/watch?v=WDvDeD7nnP8](https://www.youtube.com/watch?v=eu-yeWdRgoc&t)                                       |\
 ...
 
 
