@@ -54,8 +54,6 @@ Each student is assigned a paper to present and implement a related project. Git
 | Francesco Vaccaro         | [Detecting Hallucinations in Large Language Models Using Semantic Entropy (19 Jun 2024)](https://arxiv.org/) | [Repo](https://github.com/coding-novice/Final-Submission-VLM-SS25#)                           |
 | Tuna Karacan              | [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | [Repo](https://github.com/TunaKaracan/Final-Submission-In2107-Tuna)   
 | Linfeng Guo               | [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (22 Jan 2024)](https://arxiv.org/) | [Repo](https://github.com/linfeng20001/Seminar-CheXagent-Towards-a-Foundation-Model-for-Chest-X-Ray-Interpretation-22-Jan-2024-.git) |
-| Fatih Ibrahim Özlügedik   |                                                                             |                          |
-| Abdullah Utku Yertutan    |                                                                              |                           |
 
 ## 📚 Recommand Paper List for the presentation
 
