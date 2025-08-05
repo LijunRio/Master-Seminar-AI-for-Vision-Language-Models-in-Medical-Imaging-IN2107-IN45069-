@@ -44,7 +44,7 @@ Each student is assigned a paper to present and implement a related project. Git
 
 | **Student Name**          | **Paper Title**                                                                                  | **GitHub Repository**                 |
 |---------------------------|------------------------------------------------------------------------------------------------|-------------------------------------|
-| Jun Li （example）             | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/pdf/2503.03278)  | [Repo](https://github.com/LijunRio/example_for_seminar) Here is you subbmision link                          |
+| Jun Li （example）             | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/pdf/2503.03278)  | [Example](https://github.com/LijunRio/example_for_seminar)                  |
 | Bivek Panthi              | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning (27 Mar 2025)](https://arxiv.org/abs/2503.20752)  | [RepoBivek](https://github.com/panthibivek/AI-in-Vision-Language-Models-in-Medical-Imaging)                           |
 | Luis Schmid               | [A Large Model for Non-Invasive and Personalized Management of Breast Cancer from MRI (17 Apr 2025)](https://arxiv.org/) | [RepoLuis](https://github.com/lelui/Final-Submission-In2107)                           |
 | Radoslav M. Yankov        | [Qwen2.5-VL Technical Report (19 Feb 2025)](https://arxiv.org/)                                | [Repo](https://github.com/RadoslavMYankov/Medical-Imaging-Seminar)                           |
