@@ -17,6 +17,10 @@
 ## 📘 Seminar Overview
 
 The **Master-Seminar on AI for Vision-Language Models in Medical Imaging** introduces students to the fundamentals of Vision-Language Models (VLMs) and their applications in the medical domain.
+</p>
+<p align="center">
+    <img src="images\seminar.png" alt="Chair Members" width="800"/>
+</p>
 
 ### Key Components:
 - 📚 **Student presentations** on the state-of-the-art (SOTA) VLM papers
@@ -34,7 +38,6 @@ All lecture PDFs are available in TUM Moodle .
 |----------|-------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | Week 1   | Welcome and Introduction to VLMs-L1 | 📄 [Course Requirements](./Materials/L1_25_VLM_Intro_30_04.pdf) <br> 📄 [Introduction to VLMs](./Materials/VLM-L1.pdf) | ▶️ [YouTube](https://www.youtube.com/watch?v=WDvDeD7nnP8) |
 | Week 2   | How to Read Papers and Make Posters | 📄 [Lecture-2](./Materials/07_05_2025_VLM_HowTo.pdf) <br>                                 | ▶️ [YouTube](https://www.youtube.com/watch?v=eu-yeWdRgoc&t)                                       |\
-...
 
 
 ## 📝 Student Presentations
