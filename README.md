@@ -45,18 +45,19 @@ All lecture PDFs are available in TUM Moodle .
 Each student is assigned a paper to present and implement a related project. GitHub links will be updated as projects are finalized.
 - How to subbmit you final work: https://github.com/LijunRio/example_for_seminar
 
-| **Student Name**          | **Paper Title**                                                                                  | **GitHub Repository**                 |
-|---------------------------|------------------------------------------------------------------------------------------------|-------------------------------------|
-| Jun Li （example）             | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/pdf/2503.03278)  | [Example](https://github.com/LijunRio/example_for_seminar)                  |
-| Bivek Panthi              | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning (27 Mar 2025)](https://arxiv.org/abs/2503.20752)  | [Repo](https://github.com/panthibivek/AI-in-Vision-Language-Models-in-Medical-Imaging)                           |
-| Luis Schmid               | [A Large Model for Non-Invasive and Personalized Management of Breast Cancer from MRI (17 Apr 2025)](https://arxiv.org/) | [Repo](https://github.com/lelui/Final-Submission-In2107)                           |
-| Radoslav M. Yankov        | [Qwen2.5-VL Technical Report (19 Feb 2025)](https://arxiv.org/abs/2502.13923)                                | [Repo](https://github.com/RadoslavMYankov/Medical-Imaging-Seminar)                           |
-| Philipp Rössel            | [Visual-RFT: Visual Reinforcement Fine-Tuning (3 Mar 2025)](https://arxiv.org/)                | [Repo](https://github.com/proessel/Seminar_VLM)                          |
-| Dominik Garstenauer       | [MedRAX: Medical Reasoning Agent for Chest X-ray (4 Feb 2025)](https://arxiv.org/abs/2502.02673)             | [Repo](https://github.com/dominikg-tum/VLM-Qwen-Medical-Eval)                           |
-| Jingyi He                 | [MAIRA-2: Grounded Radiology Report Generation (6 Jun 2024)](https://arxiv.org/abs/2406.04449)                |[Repo](https://github.com/jingyiheholly/Final_submission_Jingyi_He.git)                            |
-| Francesco Vaccaro         | [Detecting Hallucinations in Large Language Models Using Semantic Entropy (19 Jun 2024)](https://arxiv.org/) | [Repo](https://github.com/coding-novice/Final-Submission-VLM-SS25#)                           |
-| Tuna Karacan              | [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | [Repo](https://github.com/TunaKaracan/Final-Submission-In2107-Tuna)   
-| Linfeng Guo               | [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (22 Jan 2024)](https://arxiv.org/) | [Repo](https://github.com/linfeng20001/Seminar-CheXagent-Towards-a-Foundation-Model-for-Chest-X-Ray-Interpretation-22-Jan-2024-.git) |
+| **Student** | **Paper Title** | **GitHub Repository** |
+|-------------|----------------|-----------------------|
+| Example     | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/pdf/2503.03278) | [Example](https://github.com/LijunRio/example_for_seminar) |
+| Student 1   | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning (27 Mar 2025)](https://arxiv.org/abs/2503.20752) | [Repo](https://github.com/panthibivek/AI-in-Vision-Language-Models-in-Medical-Imaging) |
+| Student 2   | [A Large Model for Non-Invasive and Personalized Management of Breast Cancer from MRI (17 Apr 2025)](https://arxiv.org/) | [Repo](https://github.com/lelui/Final-Submission-In2107) |
+| Student 3   | [Qwen2.5-VL Technical Report (19 Feb 2025)](https://arxiv.org/abs/2502.13923) | [Repo](https://github.com/RadoslavMYankov/Medical-Imaging-Seminar) |
+| Student 4   | [Visual-RFT: Visual Reinforcement Fine-Tuning (3 Mar 2025)](https://arxiv.org/) | [Repo](https://github.com/proessel/Seminar_VLM) |
+| Student 5   | [MedRAX: Medical Reasoning Agent for Chest X-ray (4 Feb 2025)](https://arxiv.org/abs/2502.02673) | [Repo](https://github.com/dominikg-tum/VLM-Qwen-Medical-Eval) |
+| Student 6   | [MAIRA-2: Grounded Radiology Report Generation (6 Jun 2024)](https://arxiv.org/abs/2406.04449) | [Repo](https://github.com/jingyiheholly/Final_submission_Jingyi_He.git) |
+| Student 7   | [Detecting Hallucinations in Large Language Models Using Semantic Entropy (19 Jun 2024)](https://arxiv.org/) | [Repo](https://github.com/coding-novice/Final-Submission-VLM-SS25#) |
+| Student 8   | [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | [Repo](https://github.com/TunaKaracan/Final-Submission-In2107-Tuna) |
+| Student 9   | [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (22 Jan 2024)](https://arxiv.org/) | [Repo](https://github.com/linfeng20001/Seminar-CheXagent-Towards-a-Foundation-Model-for-Chest-X-Ray-Interpretation-22-Jan-2024-.git) |
+
 
 ## 📚 Recommand Paper List for the presentation
 
